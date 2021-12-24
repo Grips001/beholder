@@ -1,5 +1,5 @@
 # beholder
-Contains a JSON with the latest versions of these softwares:
+This bucket contains a JSON with the latest versions of these softwares:
 Firefox ESR
 Filezilla
 7zip
