@@ -1,10 +1,10 @@
 # beholder
 This bucket contains a JSON with the latest versions of these softwares:
 
-Firefox            102.11.0        
+Firefox            102.12.0        
 NotepadPlusPlus    8.5.3           
 FileZilla          3.64.0          
-VNCViewer          7.5.0           
+VNCViewer          7.5.1           
 CitrixWorkspaceApp 22.12.0.48      
 GitForWin          2.41.0          
 7zip               22.01           
