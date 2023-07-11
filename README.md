@@ -3,7 +3,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 
 Firefox            102.13.0         
 NotepadPlusPlus    8.5.4            
-FileZilla          3.64.0           
+FileZilla          3.65.0           
 VNCViewer          7.5.1            
 CitrixWorkspaceApp 22.12.0.48       
 GitForWin          2.41.0           
@@ -14,7 +14,7 @@ Putty              0.78
 Chrome             114.0.5735.199   
 VNCServer          7.5.1            
 ProcessExplorer    17.04            
-Edge               114.0.1823.67    
+Edge               114.0.1823.79    
 WinSCP             6.1.1            
 
 
