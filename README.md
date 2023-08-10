@@ -2,7 +2,7 @@
 This bucket contains a JSON with the latest versions of these softwares:
 
 Firefox            115.1.0          
-NotepadPlusPlus    8.5.4            
+NotepadPlusPlus    8.5.5            
 FileZilla          3.65.0           
 VNCViewer          7.6.0            
 CitrixWorkspaceApp 22.12.0.48       
