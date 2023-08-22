@@ -6,7 +6,7 @@ NotepadPlusPlus    8.5.6
 FileZilla          3.65.0           
 VNCViewer          7.6.0            
 CitrixWorkspaceApp 22.12.0.48       
-GitForWin          2.41.0           
+GitForWin          2.42.0           
 7zip               23.01            
 GithubDesktop      3.2.9            
 VMWareHorizon      8.10.0.21964678  
