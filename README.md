@@ -9,7 +9,7 @@ CitrixWorkspaceApp 23.9.0.99
 GitForWin          2.42.0           
 7zip               23.01            
 GithubDesktop      3.3.4            
-VMWareHorizon      8.10.0.21964678  
+VMWareHorizon      8.11.0.22660907  
 Putty              0.79             
 Chrome             118.0.5993.118   
 VNCServer          7.7.0            
