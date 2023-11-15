@@ -11,7 +11,7 @@ GitForWin          2.42.0
 GithubDesktop      7000             
 VMWareHorizon      8.11.0.22660907  
 Putty              0.79             
-Chrome             119.0.6045.124   
+Chrome             119.0.6045.160   
 VNCServer          7.8.0            
 ProcessExplorer    17.05            
 Edge               119.0.2151.58    
