@@ -12,7 +12,7 @@ GithubDesktop      3.3.8
 VMWareHorizon      8.12.0.23149293  
 Putty              0.80             
 Chrome             122.0.6261.57    
-VNCServer          7.9.0            
+VNCServer          7.10.0           
 ProcessExplorer    17.05            
 Edge               121.0.2277.128   
 WinSCP             6.3.1            
