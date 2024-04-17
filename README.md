@@ -15,7 +15,7 @@ Chrome             124.0.6367.60
 VNCServer          7.10.0           
 ProcessExplorer    17.05            
 Edge               123.0.2420.97    
-WinSCP             6.3.2            
+WinSCP             6.3.3            
 
 
 
