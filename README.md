@@ -7,7 +7,7 @@ FileZilla          3.67.0
 VNCViewer          7.11.1           
 CitrixWorkspaceApp 24.3.1.97        
 GitForWin          2.45.1           
-7zip               24.05            
+7zip               24.06            
 GithubDesktop      3.3.18           
 VMWareHorizon      8.12.1.23531249  
 Putty              0.81             
