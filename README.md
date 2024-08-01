@@ -8,7 +8,7 @@ VNCViewer          7.12.0
 CitrixWorkspaceApp 24.5.0.131       
 GitForWin          2.46.0           
 7zip               24.07            
-GithubDesktop      3.4.2            
+GithubDesktop      3.4.3            
 VMWareHorizon      8.12.1.23531249  
 Putty              0.81             
 Chrome             127.0.6533.89    
