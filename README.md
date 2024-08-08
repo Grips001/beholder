@@ -5,7 +5,7 @@ Firefox            115.14.0
 NotepadPlusPlus    8.6.9            
 FileZilla          3.67.1           
 VNCViewer          7.12.0           
-CitrixWorkspaceApp 24.5.0.131       
+CitrixWorkspaceApp 24.5.10.29       
 GitForWin          2.46.0           
 7zip               24.07            
 GithubDesktop      3.4.3            
