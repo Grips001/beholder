@@ -14,7 +14,7 @@ Putty              0.81
 Chrome             128.0.6613.120   
 VNCServer          7.12.1           
 ProcessExplorer    17.06            
-Edge               128.0.2739.67    
+Edge                              
 Python             3.12.6           
 WinSCP             6.3.4            
 
