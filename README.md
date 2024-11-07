@@ -5,13 +5,13 @@ Firefox            128.4.0
 NotepadPlusPlus    8.7.1            
 FileZilla          3.67.1           
 VNCViewer          7.12.1           
-CitrixWorkspaceApp 24.5.11.31       
+CitrixWorkspaceApp 24.5.12.42       
 GitForWin          2.47.0           
 7zip               24.08            
 GithubDesktop      3.4.9            
 VMWareHorizon      8.12.1.23531249  
 Putty              0.81             
-Chrome             130.0.6723.117   
+Chrome             131.0.6778.33    
 VNCServer          7.12.1           
 ProcessExplorer    17.06            
 Edge                              
