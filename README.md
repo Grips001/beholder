@@ -15,7 +15,7 @@ Chrome             131.0.6778.109
 VNCServer          7.13.0           
 ProcessExplorer    17.06            
 Edge                              
-Python             3.13.0           
+Python             3.13.1           
 WinSCP             6.3.6            
 
 
