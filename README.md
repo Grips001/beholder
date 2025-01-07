@@ -1,7 +1,7 @@
 # beholder
 This bucket contains a JSON with the latest versions of these softwares:
 
-Firefox            128.5.2          
+Firefox            128.6.0          
 NotepadPlusPlus    8.7.5            
 FileZilla          3.68.1           
 VNCViewer          7.13.1           
