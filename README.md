@@ -10,7 +10,7 @@ GitForWin          2.47.1
 7zip               24.09            
 GithubDesktop      3.4.16           
 VMWareHorizon      8.12.1.23531249  
-Putty              0.82             
+Putty              0.83             
 Chrome             133.0.6943.60    
 VNCServer          7.13.1           
 ProcessExplorer    17.06            
