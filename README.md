@@ -16,7 +16,7 @@ VNCServer          7.13.1
 ProcessExplorer    17.06            
 Edge                              
 Python             3.13.2           
-WinSCP             6.3.6            
+WinSCP             6.3.7            
 
 
 
