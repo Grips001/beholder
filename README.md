@@ -12,9 +12,9 @@ GithubDesktop      3.4.18
 VMWareHorizon      8.12.1.23531249  
 Putty              0.83             
 Chrome             134.0.6998.89    
-VNCServer                         
+VNCServer          7.13.1           
 ProcessExplorer    17.06            
-Edge               134.0.3124.62    
+Edge               134.0.3124.66    
 Python             3.13.2           
 WinSCP             6.3.7            
 
