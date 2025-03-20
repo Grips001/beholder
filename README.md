@@ -1,22 +1,19 @@
 ﻿# beholder
 This bucket contains a JSON with the latest versions of these softwares:
-
-Putty              0.83             
-WinSCP             6.3.7            
-Python             3.13.2           
-CitrixWorkspaceApp 24.9.10.28       
-VNCViewer          7.13.1           
-VMWareHorizon      8.12.1.23531249  
-ProcessExplorer    17.06            
-VNCServer          7.13.1           
-FileZilla          3.68.1           
-GitForWin          2.49.0           
-NotepadPlusPlus    8.7.8            
-GithubDesktop      3.4.18           
-Edge               134.0.3124.68    
-Chrome             134.0.6998.118   
-7zip               24.09            
-Firefox            128.8.0          
-
-
 
+Putty              0.82             
+WinSCP             6.3.7            
+Python             3.13.2           
+CitrixWorkspaceApp 24.9.10.28       
+VNCViewer          7.13.1           
+VMWareHorizon      8.12.1.23531249  
+ProcessExplorer    17.06            
+VNCServer          7.13.1           
+FileZilla          3.68.1           
+GitForWin          2.49.0           
+NotepadPlusPlus    8.7.8            
+GithubDesktop      3.4.18           
+Edge               134.0.3124.68    
+Chrome             134.0.6998.118   
+7zip               24.09            
+Firefox            128.8.0          
