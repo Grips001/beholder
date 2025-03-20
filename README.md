@@ -1,7 +1,7 @@
 ﻿# beholder
 This bucket contains a JSON with the latest versions of these softwares:
 
-Putty              0.83             
+Putty              0.82             
 WinSCP             6.3.7            
 Python             3.13.2           
 CitrixWorkspaceApp 24.9.10.28       
