@@ -13,10 +13,10 @@ FileZilla          3.68.1
 GitForWin          2.49.0         
 NotepadPlusPlus    8.7.8          
 GithubDesktop      3.4.18         
-Edge               134.0.3124.83  
-Chrome             134.0.6998.178 
+Edge               134.0.3124.85  
+Chrome             135.0.7049.41  
 7zip               24.09          
-Firefox            128.8.0          
+Firefox            128.8.1          
 
 
 
