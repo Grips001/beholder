@@ -11,7 +11,7 @@ ProcessExplorer    17.06
 VNCServer          7.13.1         
 FileZilla          3.68.1         
 GitForWin          2.49.0         
-NotepadPlusPlus    8.7.8          
+NotepadPlusPlus    8.7.9          
 GithubDesktop      3.4.18         
 Edge               134.0.3124.85  
 Chrome             135.0.7049.42  
