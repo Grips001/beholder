@@ -4,7 +4,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 Putty              0.83           
 WinSCP             6.5.1          
 Python             3.13.3         
-CitrixWorkspaceApp 25.3.0.189     
+CitrixWorkspaceApp 25.3.1.194     
 VNCViewer          7.13.1         
 VMWareHorizon      8.12.1.23531249
 ProcessExplorer    17.06          
@@ -14,7 +14,7 @@ GitForWin          2.49.0
 NotepadPlusPlus    8.8.1          
 GithubDesktop      3.4.19         
 Edge               136.0.3240.50  
-Chrome             136.0.7103.93  
+Chrome             136.0.7103.114 
 7zip               24.09          
 Firefox            128.10.0         
 
