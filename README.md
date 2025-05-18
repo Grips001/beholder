@@ -16,7 +16,7 @@ GithubDesktop      3.4.19
 Edge               136.0.3240.64  
 Chrome             136.0.7103.114 
 7zip               24.09          
-Firefox            128.10.0         
+Firefox            128.10.1         
 
 
 
