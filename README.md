@@ -14,7 +14,7 @@ GitForWin          2.49.0
 NotepadPlusPlus    8.8.1          
 GithubDesktop      3.4.20         
 Edge               136.0.3240.76  
-Chrome             137.0.7151.41  
+Chrome             137.0.7151.56  
 7zip               24.09          
 Firefox            128.11.0         
 
