@@ -12,7 +12,7 @@ VNCServer          7.13.1
 FileZilla          3.69.1         
 GitForWin          2.49.0         
 NotepadPlusPlus    8.8.1          
-GithubDesktop      3.4.20         
+GithubDesktop      3.4.21         
 Edge               137.0.3296.62  
 Chrome             137.0.7151.104 
 7zip               24.09          
