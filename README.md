@@ -10,7 +10,7 @@ VMWareHorizon      8.12.1.23531249
 ProcessExplorer    17.06          
 VNCServer          7.13.1         
 FileZilla          3.69.1         
-GitForWin          2.49.0         
+GitForWin          2.50.0         
 NotepadPlusPlus    8.8.1          
 GithubDesktop      3.4.21         
 Edge               137.0.3296.62  
