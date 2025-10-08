@@ -6,7 +6,7 @@ WinSCP             6.5.3
 Python                           
 CitrixWorkspaceApp 25.8.0.71     
 VNCViewer          7.15.0        
-VMWareHorizon                    
+VMWareHorizon      8.13.1        
 ProcessExplorer    17.06         
 VNCServer          7.15.0        
 FileZilla          3.69.1        
