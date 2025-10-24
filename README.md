@@ -1,11 +1,13 @@
 # beholder
 This bucket contains a JSON with the latest versions of these softwares:
 
-Putty              0.83         
-Python             3.14.0       
-GitForWin          2.51.1       
-NotepadPlusPlus    8.8.7        
-GithubDesktop      3.5.3        
-Chrome             142.0.7444.52
-7zip               25.01        
+NotepadPlusPlus 8.8.7        
+Putty           0.83         
+7zip            25.01        
+GithubDesktop   3.5.3        
+Chrome          142.0.7444.52
+GitForWin       2.51.1       
+Python          3.14.0         
+
+
 
