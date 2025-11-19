@@ -1,7 +1,7 @@
 # beholder
 This bucket contains a JSON with the latest versions of these softwares:
 
-NotepadPlusPlus 8.8.7         
+NotepadPlusPlus 8.8.8         
 Putty           0.83          
 7zip            25.01         
 GithubDesktop   3.5.4         
