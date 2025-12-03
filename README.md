@@ -6,9 +6,9 @@ This bucket contains a JSON with the latest versions of these softwares:
 |----------|---------|
 | 7zip | 25.01 |
 | AWSCLI | 2.32.8 |
-| Chrome | 143.0.7499.40 |
+| Chrome | 143.0.7499.41 |
 | GitForWin | 2.52.0 |
 | GithubDesktop | 3.5.4 |
 | NotepadPlusPlus | 8.8.8 |
 | Putty | 0.83 |
-| Python | 3.14.0 |
+| Python | 3.14.1 |
