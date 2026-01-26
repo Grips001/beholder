@@ -9,6 +9,6 @@ This bucket contains a JSON with the latest versions of these softwares:
 | Chrome | 144.0.7559.97 |
 | GitForWin | 2.52.0 |
 | GithubDesktop | 3.5.4 |
-| NotepadPlusPlus | 8.9 |
+| NotepadPlusPlus | 8.9.1 |
 | Putty | 0.83 |
 | Python | 3.14.2 |
