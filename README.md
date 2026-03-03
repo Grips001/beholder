@@ -10,7 +10,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 | Chrome | 146.0.7680.31 |
 | GitForWin | 2.53.0 |
 | GithubDesktop | 3.5.5 |
-| NodeJS | 25.7.0 |
+| NodeJS | 25.8.0 |
 | NotepadPlusPlus | 8.9.2 |
 | Putty | 0.83 |
 | Python | 3.14.3 |
