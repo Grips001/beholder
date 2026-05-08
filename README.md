@@ -12,5 +12,6 @@ This bucket contains a JSON with the latest versions of these softwares:
 | GithubDesktop | 3.5.8 |
 | NodeJS | 26.1.0 |
 | NotepadPlusPlus | 8.9.4 |
+| PowerShell | 7.6.1 |
 | Putty | 0.83 |
 | Python | 3.14.4 |
