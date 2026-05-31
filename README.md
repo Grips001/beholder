@@ -11,7 +11,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 | GitForWin | 2.54.0 |
 | GithubDesktop | 3.5.11 |
 | NodeJS | 26.2.0 |
-| NotepadPlusPlus | 8.9.6.1 |
+| NotepadPlusPlus | 8.9.6.2 |
 | PowerShell | 7.6.2 |
 | Putty | 0.84 |
 | Python | 3.14.5 |
