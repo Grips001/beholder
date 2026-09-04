@@ -4,12 +4,12 @@ This bucket contains a JSON with the latest versions of these softwares:
 
 | Software | Version |
 |----------|---------|
-| 7zip | 26.02 |
-| AWSCLI | 2.36.38 |
-| Bun | 1.4.0 |
-| Chrome | 153.0.8010.12 |
+| 7zip | 26.03 |
+| AWSCLI | 2.36.39 |
+| Bun | 1.4.1 |
+| Chrome | 153.0.8010.27 |
 | GitForWin | 2.55.0 |
-| GithubDesktop | 3.6.4 |
+| GithubDesktop | 3.6.5 |
 | NodeJS | 26.8.1 |
 | NotepadPlusPlus | 8.9.8 |
 | PowerShell | 7.6.5 |
