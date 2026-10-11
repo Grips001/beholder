@@ -14,4 +14,4 @@ This bucket contains a JSON with the latest versions of these softwares:
 | NotepadPlusPlus | 8.9.8.1 |
 | PowerShell | 7.6.6 |
 | Putty | 0.85 |
-| Python | 3.14.8 |
+| Python | 3.15.0 |
