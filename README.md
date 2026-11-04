@@ -7,7 +7,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 | 7zip | 26.05 |
 | AWSCLI | 2.39.3 |
 | Bun | 1.4.4 |
-| Chrome | 157.0.8103.27 |
+| Chrome | 157.0.8103.39 |
 | GitForWin | 2.56.0 |
 | GithubDesktop | 3.6.10 |
 | NodeJS | 26.13.0 |
