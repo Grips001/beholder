@@ -9,7 +9,7 @@ This bucket contains a JSON with the latest versions of these softwares:
 | Bun | 1.4.4 |
 | Chrome | 158.0.8127.37 |
 | GitForWin | 2.56.1 |
-| GithubDesktop | 3.6.10 |
+| GithubDesktop | 3.6.11 |
 | NodeJS | 26.13.1 |
 | NotepadPlusPlus | 8.9.9.1 |
 | PowerShell | 7.7.0 |
