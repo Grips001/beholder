@@ -5,11 +5,11 @@ This bucket contains a JSON with the latest versions of these softwares:
 | Software | Version |
 |----------|---------|
 | 7zip | 26.06 |
-| AWSCLI | 2.42.2 |
+| AWSCLI | 2.42.3 |
 | Bun | 1.4.5 |
-| Chrome | 159.0.8154.13 |
+| Chrome | 159.0.8154.34 |
 | GitForWin | 2.56.1 |
-| GithubDesktop | 3.6.11 |
+| GithubDesktop | 3.7.0 |
 | NodeJS | 26.13.1 |
 | NotepadPlusPlus | 8.9.9.1 |
 | PowerShell | 7.7.0 |
